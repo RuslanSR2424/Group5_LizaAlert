@@ -1,0 +1,10 @@
+.endOfCourse__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 808px;
+  height: 230px;
+
+  margin: 32px auto 0 auto;
+}
