@@ -5,10 +5,10 @@
 
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__congratulate/card__congratulate.css);
-@import url(../blocks/card/__header/card__header.css);
-@import url(../blocks/card/__result/card__result.css);
-@import url(../blocks/card/__result/_type/card__result_type_sorry.css);
-@import url(../blocks/card/__result/_type/card__result_type_congratulate.css);
+@import url(../blocks/card/__name/card__name.css);
+@import url(../blocks/card/__container/card__container.css);
+@import url(../blocks/card/__container/_type/card__container_type_sorry.css);
+@import url(../blocks/card/__container/_type/card__container_type_congratulate.css);
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__text/_type/card__text_type_congratulate.css);
 @import url(../blocks/card/__text/_type/card__text_type_sorry.css);
